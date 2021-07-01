@@ -7,8 +7,8 @@ Before 2021.6, I was a student in faculty of Chemistry, [Sichuan University][1],
 1. Design, Synthesis and Device Study of Thermally Activated Delayed Fluorescent Materials Based on Dicyanimidazole Receptors.(National Innovation Program）
 
 ### Awards
-First Standard Excellence Scholarship, 2019 - till now.
-Winning Prize in Chemistry -- （ZHIHUA Scholarship)
+- First Standard Excellence Scholarship, 2019 - till now.
+- Winning Prize in Chemistry -- （ZHIHUA Scholarship)
 
 ### Recent work
 Participating in the [international summer program in PolyU][4].
