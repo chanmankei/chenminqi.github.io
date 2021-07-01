@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Greetings! I'm Chen Minqi
+### Intorduction
+Hi! My name is Chen Minqi (陈民琪). I’m a BSc. student from faculty of medicine, [West China hospital, SiChuan University(WCHSCU)][3], Chengdu, China. 
+Before 2021.6, I was a student in faculty of Chemistry, [Sichuan University][1], under the instruction of Professor [You Jingsong][2], mainly searching on organic materials.
 
-You can use the [editor on GitHub](https://github.com/chanmankei/chenminqi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Project
+1. Design, Synthesis and Device Study of Thermally Activated Delayed Fluorescent Materials Based on Dicyanimidazole Receptors.(National Innovation Program）
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Awards
+First Standard Excellence Scholarship, 2019 - till now.
+Winning Prize in Chemistry -- （ZHIHUA Scholarship)
 
-### Markdown
+### Recent work
+Participating in the [international summer program in PolyU][4].
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chanmankei/chenminqi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[1]: https://en.scu.edu.cn/  "SCU"
+[2]: https://chem.scu.edu.cn/info/1049/3362.html "You Jingsong"
+[3]: http://www.wchscu.cn/Home.html "WCHSCU"
+[4]: https://www.polyu.edu.hk/summerschool/ "HKPU"
