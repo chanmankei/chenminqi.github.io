@@ -1,6 +1,7 @@
 ## Greetings! I'm Chen Minqi
 ### Intorduction
 Hi! My name is Chen Minqi (陈民琪). I’m a BSc. student from faculty of medicine, [West China hospital, SiChuan University(WCHSCU)][3], Chengdu, China. 
+
 Before 2021.6, I was a student in faculty of Chemistry, [Sichuan University][1], under the instruction of Professor [You Jingsong][2], mainly searching on organic materials.
 
 ### Project
